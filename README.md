@@ -5,12 +5,12 @@ My Personal Academic &amp; Project Portfolio
 📍 Location: Astana, Kazakhstan
 📧 Email: rahmankulaldiar33@gmail.com
 ✈️ Telegram: @teviw
-🌐 GitHub: github.com/your_username  
+🌐 GitHub: github.com/aldeshke 
 
 ---
 
 ## 👨‍🎓 About Me
-A High School Senior with a specialization in Financial Economics and FinTech. I am passionate about ..., ..., and algorithmic problem-solving. I plan to major in ... at Chinese universities
+A High School Senior with a specialization in Financial Economics and FinTech. I am passionate about market design, strategic decision-making, and algorithmic problem-solving. I plan to major in Corporate Finance at Chinese universities
 
 ---
 
