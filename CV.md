@@ -16,7 +16,7 @@ A High School Senior with a specialization in Financial Economics and FinTech. I
 
 ## 🛠 Skills & Competencies
 
-* Languages: Russian (Native), Kazakh (Native) English (C1 / IELTS 7.0), Chinese (Beginner)
+* Languages: Russian (C2), Kazakh (C1) English (C1 / IELTS 7.0), Chinese (HSK 1)
 * Programming Languages: Python
 * Tools & Technologies: Git, GitHub, VS Code, Linux
 * Soft Skills: Problem-solving, Teamwork, Project Management
@@ -45,5 +45,7 @@ A High School Senior with a specialization in Financial Economics and FinTech. I
 ---
 
 ## 📜 Certifications
-* 
-* 
+* **Candidate for Master of Sports** — [View Certificate](https://www.image2url.com/r2/default/documents/1786605418925-01321a89-2d94-4b6f-97ed-93ced3bb2c89.pdf)
+* **1st Place in AMC** — [View Certificate](https://www.image2url.com/r2/default/documents/1786605664358-5bfd3c5d-f153-4bf9-bf6a-11256b71d87a.pdf)
+* **2nd Place in SASMO** — [View Certificate](https://www.image2url.com/r2/default/documents/1786609113949-246842cb-e301-4152-8cf0-014552bc88e9.pdf)
+* **IELTS** — [View Certificate](https://www.image2url.com/r2/default/documents/1786610066851-3812419b-45d5-422f-a413-51b9adfb3870.pdf)
